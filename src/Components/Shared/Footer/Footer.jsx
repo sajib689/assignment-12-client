@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <footer className="footer p-10 bg-neutral text-neutral-content">
+    <footer className="mt-24 footer p-10 bg-neutral text-neutral-content">
       <aside>
         <svg
           width="50"
