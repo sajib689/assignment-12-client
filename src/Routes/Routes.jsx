@@ -16,6 +16,7 @@ const router = createBrowserRouter([
             {
                 path: '/category/:category_name',
                 element: <Category></Category>,
+                loader: ({params}) => fetch(`http://localhost:3000/mobiles/${params.category_name}`)
             }
         ]
     }
