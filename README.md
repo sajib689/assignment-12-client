@@ -1,7 +1,5 @@
 # Scholarships Booking Website
 
-![Scholarships](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)
-
 ## Overview
 
 This website provides comprehensive information about various scholarships available for students. Users can explore and book their preferred scholarships directly through the platform, making it easier to find and apply for financial aid opportunities tailored to their educational needs.
@@ -103,4 +101,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer" width="500"/>
 </div>
-
